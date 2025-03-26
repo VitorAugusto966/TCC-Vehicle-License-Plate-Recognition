@@ -44,5 +44,5 @@ Abaixo estão algumas imagens da interface gráfica desenvolvida com **Tkinter**
 *Tela principal da aplicação.*
 
 ![Resultado do Reconhecimento](imagens/interface-grafica-sucesso.png)
-*Resultado do reconhecimento de caracteres da placa.*
+*Resultado do reconhecimento de caracteres da placa (dados simulados).*
 
