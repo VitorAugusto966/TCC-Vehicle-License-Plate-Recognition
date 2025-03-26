@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=yolo&logoColor=white)
 
-Este repositório contém o código desenvolvido para o meu **Trabalho de Conclusão de Curso (TCC)**, que tem como objetivo a **detecção e o reconhecimento de placas de veículos em imagens**. O projeto utiliza técnicas de **Visão computacional**, **Aprendizado de Máquina** e **Processamento de Imagens** para identificar e interpretar placas de veículos, com foco nos padrões de placas brasileiras, incluindo as placas do **Padrão Mercosul**.
+Este repositório contém o código desenvolvido para o meu Trabalho de Conclusão de Curso (TCC), realizado no curso de Bacharelado em Ciência da Computação, com o objetivo de detectar e reconhecer placas de veículos em imagens. O projeto utiliza técnicas de Visão Computacional, Aprendizado de Máquina e Processamento de Imagens para identificar e interpretar placas de veículos, com foco nos padrões de placas brasileiras, incluindo as placas do Padrão Mercosul.
 
 ## Tecnologias Utilizadas
 
