@@ -35,3 +35,14 @@ O objetivo principal deste trabalho é:
 - Suporte para imagens com ruídos e baixa qualidade.
 - Interface gráfica simples desenvolvida com **Tkinter** para facilitar a interação com o sistema.
 - Simulação de dados do **SENATRAN** via back-end em **Node.js** com **Express**.
+
+## Interface Gráfica
+
+Abaixo estão algumas imagens da interface gráfica desenvolvida com **Tkinter**:
+
+![Tela Principal](imagens/interface-grafica.png)
+*Tela principal da aplicação.*
+
+![Resultado do Reconhecimento](imagens/interface-grafica-sucesso.png)
+*Resultado do reconhecimento de caracteres da placa.*
+
