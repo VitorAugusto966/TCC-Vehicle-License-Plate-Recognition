@@ -66,3 +66,7 @@ Caso prefira, você pode testar o projeto executando localmente!
 ├── 📄 **artigo_cientifico.pdf**  # 📚 Artigo científico do TCC  
 ├── 📄 **README.md**              # 📖 Documentação do projeto  
 └── 🐍 **yolo_grafica.py**        # 🖥️ Script principal com interface gráfica
+
+## 📝 Licença  
+
+Este projeto está licenciado sob os termos da **MIT License**.  
