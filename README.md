@@ -67,6 +67,10 @@ Caso prefira, você pode testar o projeto executando localmente!
 ├── 📄 **README.md**              # 📖 Documentação do projeto  
 └── 🐍 **yolo_grafica.py**        # 🖥️ Script principal com interface gráfica
 
+---
+
 ## 📝 Licença  
 
 Este projeto está licenciado sob os termos da **MIT License**.  
+
+📄 Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
